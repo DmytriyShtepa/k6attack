@@ -1,0 +1,18 @@
+{
+	"targets": [
+		{
+		  "method": "GET",
+		  "url": "https://178.248.236.218",
+		  "params": {
+			"headers": { "Host": "https://www.tinkoff.ru" }
+		  }
+		},
+		{
+		  "method": "GET",
+		  "url": "https://195.242.83.13",
+		  "params": {
+			"headers": { "Host": "https://www.vtb.ru" }
+		  }
+		}
+	]
+}
